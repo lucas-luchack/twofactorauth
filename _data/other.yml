@@ -315,6 +315,13 @@ websites:
       email_address: support@help.instapaper.com
       img: instapaper.png
       tfa: No
+      
+    - name: IslandGAME
+      url: https://www.islandgame.fr
+      twitter: IslandGAMEgrp
+      email_adress: contact@islandgame.fr
+      img: iggrp.png
+      tfa: No
 
     - name: Jitbit Helpdesk
       url: https://www.jitbit.com/hosted-helpdesk/
